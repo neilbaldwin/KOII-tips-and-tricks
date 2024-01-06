@@ -6,57 +6,57 @@ https://www.elektronauts.com/t/ep-133-tips-and-tricks/204124
 
 ## General
 
-#### Lock Mode
+### Lock Mode
 When powering on, hold MAIN. The screen will flash "LOK". Now any changes you make will not be automatically saved. Turn off and back on again to turn off lock.
-#### Playback Speed Nudge
+### Playback Speed Nudge
 During playback pressing/holding + or - will speed up or slow down the playback temporarily.
-#### Playback Speed Nudge Lock
+### Playback Speed Nudge Lock
 If you hold + or - during playback to nudge the playback speed, pressing FX will lock the speed change. Pressing MAIN will return to normal speed.
-#### Empty Pattern Indicator
+### Empty Pattern Indicator
 A little "pin wheel" or asterisk icon will appear below the Bar.Beat when the selected Pattern is empty.
-#### Find Next Empty Pattern
+### Find Next Empty Pattern
 Hold SHIFT and Press A. The next empty Pattern for the current Bank will be selected.
-#### Change Projects
+### Change Projects
 Hold MAIN and then press and hold a numbered pad until you see P followed by a number (which is the Project number you selected).
-#### Changing Base Pitch or Volume of A Pad Sample
+### Changing Base Pitch or Volume of A Pad Sample
 Press SOUND and then the X/Y knobs control the Amplitude (volume) and Pitch.
-#### Remove A Sample From A Pad
+### Remove A Sample From A Pad
 Hold SOUND then press 0.
-#### Running Out of Adjustment Travel For X/Y Knob
+### Running Out of Adjustment Travel For X/Y Knob
 If you're fine tuning using X or Y knobs and you run out of physical travel to get the value you want, switch to System Settings (hold SHIFT, press ERASE) and you can move the knobs wherever you want to and exit System Settings without affecting the parameter.
 
 ## Sequencing
 
-#### Trigger Sequencer Recording By Pressing Pad
+### Trigger Sequencer Recording By Pressing Pad
 If you engage recording mode (when stopped) by pressing RECORD, hitting any of the number pads will start recording playback.
-#### Changing Patterns for Multiple Tracks Simultaneously
+### Changing Patterns for Multiple Tracks Simultaneously
 Hold any combination of A, B, C or D and hit + or - to change pattern for all tracks. You can also type in a number on the pads and the pattern for each of the tracks will change to that pattern.
-#### Pattern Change Timing
+### Pattern Change Timing
 SHIFT + ERASE to enter System Settings. Use + to move to SEQ and press ENTER. Use + to move to SCN and press ENTER. Select TICK or BAR.
-#### Change Time Signature For Current Scene
+### Change Time Signature For Current Scene
 Hold MAIN and then press TEMPO.
-#### Tap Tempo
+### Tap Tempo
 Tap the TEMPO button
-#### Fine Tempo Adjustment
+### Fine Tempo Adjustment
 Hold SHIFT while adjusting the tempo.
-#### Detect Input Tempo When Sampling
+### Detect Input Tempo When Sampling
 Hold SAMPLE and press TEMPO.
-#### Polymeter Sequencing
+### Polymeter Sequencing
 Set Time Signature to 1/4 then set the Pattern Length(s) to 3, 5, 7 etc.
-#### Keys Mode and Repeats
+### Keys Mode and Repeats
 In Keys Mode, you can hold TIMING and a pad to repeat that pad and then play other notes while that pad is repeating.
 
 In Keys Mode you can engage a Punch-In FX such as Bit Crusher (Pad 9), release the FX button while holding the Punch-In FX pad and then if you play subsequent notes they all run through the effect.
-#### Changing Repeat Speed While Repeating
+### Changing Repeat Speed While Repeating
 If you hold TIMING and press a pad to repeat that pad, you can let go of TIMING while still holding the pad. This then frees up your hand to change the Repeat Speed (X knob) while the note is repeating. This will also be recording to the Sequencer if recording is active.
-#### Transpose Recorded and Incoming MIDI
+### Transpose Recorded and Incoming MIDI
 Open a Pad in Keys Mode.
 Enter Sound Edit (SHIFT + SOUND) and use +/- to select MIDI
 Adjusting the Y knob will inversely transpose recorded and incoming MIDI on that pad.
 Note: this also works even in the outgoing MIDI channel is set to 'off'.
-#### Step Sequencing Note Length
+### Step Sequencing Note Length
 When in Step Sequencing mode, with RECORD held and entering notes, the longer you hold the pad to enter the note, the longer the recorded note length.
-#### Quantizing Single Notes While Live Recording
+### Quantizing Single Notes While Live Recording
 In live recording mode, if you want to quantize a single note, hold TIMING before recording the note.
 
 ## Timing
@@ -76,7 +76,7 @@ Grid is based on 96 PPQN.
 
 ## FX
 
-#### Timing Master FX Changes
+### Timing Master FX Changes
 Hold SHIFT and press +/- to select a Master FX. FX won't change until you let go of SHIFT.
 
 ## Punch-in FX
@@ -96,38 +96,38 @@ Hold SHIFT and press +/- to select a Master FX. FX won't change until you let go
 | 8 | Octave Down | Pitch increases towards original | |
 | 9 | Bit Redux | Bit depth reduces | |
 
-#### Play Other Pads While Punch-In FX Active
+### Play Other Pads While Punch-In FX Active
 If you hold FX and press a pad to enable a Punch-In FX, you can release the FX button while still holding the pad and then while the FX is active you can play all the other pads.
 
-#### Punch-In FX on Pad 6 Is Master Effect
+### Punch-In FX on Pad 6 Is Master Effect
 Punch-In FX on Pad 6 is a send to the Master Effect so if you change your Master Effect this will affect the Punch-In FX on that pad.
 ## Looper
 
-#### General
+### General
 All fader functions work while Loop is active.
 You can switch between Groups and jam on the pads while the Loop is active.
-#### Changing Loop Start and Length
+### Changing Loop Start and Length
 As well as the X/Y Knobs you can use + or - while Loop is active to shift the start position.
-#### Set Initial Loop Length
+### Set Initial Loop Length
 When triggering Loop Mode with SHIFT+TEMPO, the longer you hold TEMPO the longer the initial loop length will be.
-#### Standby Mode For Looper
+### Standby Mode For Looper
 Hold SHIFT + FX then press TEMPO and Loop Mode will be activated but looping won't start until you move the X or Y knob to set the start/length of the loop.
-#### Use Punch-In FX With Loop Active
+### Use Punch-In FX With Loop Active
 Turn on the Loop (SHIFT+LOOP)
 Hold FX and hold pad for Punch-In FX.
 Release FX while still holding pad then use + or - to move the Loop.
 Release Punch-In Pad and try another FX, the Loop stays active.
-#### Use Punch-In FX While Changing Master FX
+### Use Punch-In FX While Changing Master FX
 You need to keep holding FX to change Master FX otherwise Loop turns off.
-#### Exiting Loop Mode
+### Exiting Loop Mode
 As well as pressing MAIN, TEMPO or SHIFT + LOOP to exit Loop Mode you can also press FX twice. This is handy if you are using Punch-In FX with Loop and want to exit Loop and Punch-In at the same time without having to press MAIN or TEMPO.
 ## Fader
 
-#### Reset All Fader Settings
+### Reset All Fader Settings
 Hold SHIFT and press FADER - does not clear any fader automation just resets current parameter(s).
-#### Step Recording The Fader
+### Step Recording The Fader
 While not quite Elektron-style P-Locks you can use + or - to move to a step, hold down RECORD and move the Fader. Whatever value you record on a step will remain for the rest of the sequencer until another automation parameter value is recorded.
-#### Show Fader Assignment/Position
+### Show Fader Assignment/Position
 Hold FADER and press the A/B/C/D pads. The display will show you the currently assigned Fader function for each bank and also the left of the display will show you the current "virtual" fader level.
 ## Sampling
 
@@ -139,8 +139,8 @@ Hold SAMPLE and press TEMPO.
 Undo only available when there is an umbrella symbol displayed.
 
 To use Undo, hold SHIFT and press Pad B.
-#### Undo During Recording
+### Undo During Recording
 Undo during recording reverts to the point at which Play was pressed. In other words, to confirm a note entry/sequence change, you need to press Stop at least once.
 
-#### Elektron-Style 'Reload'
+### Elektron-Style 'Reload'
 Record fader automation then press SHIFT+B to Undo which will return the Pattern to the state before you recorded the automation.
