@@ -4,7 +4,7 @@ Compiled from various sources, mostly from the Elektronauts thread here:
 
 https://www.elektronauts.com/t/ep-133-tips-and-tricks/204124
 
-[[#General]]
+[[#General|General]]
 [[#Sequencing]]
 [[#Timing]]
 [[#FX]]
