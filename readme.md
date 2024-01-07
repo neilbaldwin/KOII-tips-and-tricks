@@ -5,16 +5,14 @@ Compiled from various sources, mostly from the Elektronauts thread here:
 https://www.elektronauts.com/t/ep-133-tips-and-tricks/204124
 
 [General](#General)
-
-[[#General|General]]
-[[#Sequencing]]
-[[#Timing]]
-[[#FX]]
-[[#Punch-in FX]]
-[[#Looper]]
-[[#Fader]]
-[[#Sampling]]
-[[#Undo]]
+[Sequencing](#Sequencing)
+[Timing](#Timing)
+[FX](#FX)
+[Punch-In FX](#Punch-In FX)
+[Looper](#Looper)
+[Fader](#Fader)
+[Sampling](#Sampling)
+[Undo](#Undo)
 
 ---
 ## General
