@@ -17,6 +17,8 @@ https://www.elektronauts.com/t/ep-133-tips-and-tricks/204124
 
 [Punch-In FX](#Punch-In-FX)
 
+[Sound Edit](#Sound-edit)
+
 [Looper](#Looper)
 
 [Fader](#Fader)
@@ -135,6 +137,22 @@ If you hold FX and press a pad to enable a Punch-In FX, you can release the FX b
 Punch-In FX on Pad 6 is a send to the Master Effect so if you change your Master Effect this will affect the Punch-In FX on that pad.
 
 ---
+## Sound Edit
+
+#### Sound Edit Fine Adjustments
+You can make fine adjustments to the X or Y values by using + or - while holding SHIFT. To swap between changing the X or Y value just move either knob slightly.
+
+#### Pitching Down A Sample
+* Sound Mode + Y Knob: affects sample playback rate regardless of MIDI in etc. Does not affect other pads
+* Fader + Tuning: can transposed note playback down by 1 octave and affects all other pads in the group
+* Pitch: can transpose up or down by 5 semitones, affects sample pitch rather than MIDI note
+* Keys button + minus ( - key ): can transpose down by 4 octaves. Does not affect playback when you adjust settings in Sound Edit
+* Keys + 8: will, in Major scale mode, transpose down a further octave
+* MIDI Root Note (MID screen in Sound Edit mode) inversely transposes the note. Going from C4 to C8 offers 4 additional octaves down.
+
+Combining these methods enables you to transpose down by about 10 octaves.
+
+---
 ## Looper
 
 ### General
@@ -142,6 +160,8 @@ All fader functions work while Loop is active.
 You can switch between Groups and jam on the pads while the Loop is active.
 ### Changing Loop Start and Length
 As well as the X/Y Knobs you can use + or - while Loop is active to shift the start position.
+#### Fine Adjustment of Loop Start Point
+Holding SHIFT and pressing + or - will make fine adjustments to the loop start point.
 ### Set Initial Loop Length
 When triggering Loop Mode with SHIFT+TEMPO, the longer you hold TEMPO the longer the initial loop length will be.
 ### Standby Mode For Looper
