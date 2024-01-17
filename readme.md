@@ -191,8 +191,12 @@ Hold FADER and press the A/B/C/D pads. The display will show you the currently a
 ---
 ## Sampling
 
-#### Detect Input Tempo When Sampling
+### Detect Input Tempo When Sampling
 Hold SAMPLE and press TEMPO.
+
+### Sequentially Sampling Into Numbered Sample Slots
+If you assign an empty sound to a pad prior to sampling, your sampling will be sampled directly into that specific sample number rather than the next available one in the group. But also, the next pad you hold to sample into will be assigned the next sequential sample number e.g. if you set the sample number of pad 1 to 100 and sample into it, if you then hold pad 2 to sample into that one it will be assigned sample number 101 and so on.
+
 
 ---
 ## Undo
